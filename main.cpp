@@ -129,8 +129,8 @@ birdFeeder.deterSquirrel();
 skater.performOllie();
 //  action 2:   the skater pushes forward
 skater.pushForward();
-//  action 3:   the skater leans
-skater.lean();
+//  action 3:   the skater leans sideways
+skater.leanSideways();
 
 
 #endif
