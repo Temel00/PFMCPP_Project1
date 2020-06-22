@@ -143,9 +143,7 @@ skater.lean();
  If you didn't already: 
     Make a pull request after you make your first commit
     pin the pull request link and this repl.it link to our DM thread in a single message.
-
- 
- send me a DM to review your pull request when the project is ready for review.
+send me a DM to review your pull request when the project is ready for review.
 
  Wait for my code review.
  */
