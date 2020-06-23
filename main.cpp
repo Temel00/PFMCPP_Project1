@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tree
+//  action 1:   the tree grows
+tree.grow();
+//  action 2:   the tree moves
+tree.move();
+//  action 3:   the tree creaks
+tree.creak();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog digs
+dog.dig();
+//  action 2:   the dog barks
+dog.bark();
+//  action 3:   the dog rollsOver
+dog.rollOver();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   the phone rings
+phone.ring();
+//  action 2:   the phone vibrates
+phone.vibrate();
+//  action 3:   the phone notifiesUser
+phone.notifyUser();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       water
+//  action 1:   the water flows out 
+water.flowOut();
+//  action 2:   the water flows in
+water.flowIn();
+//  action 3:   the water trickles
+water.trickle();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   the bird chirps
+bird.chirp();
+//  action 2:   the bird sings
+bird.sing();
+//  action 3:   the bird flys 
+bird.fly();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dirtbike
+//  action 1:   the dirtbike runs
+dirtbike.run();
+//  action 2:   the dirtbike engages the brakes
+dirtbike.engageBrakes();
+//  action 3:   the dirtbike speeds up
+dirtbike.speedUp();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chop saw
+//  action 1:   the chop saw spins the blade
+chopSaw.spinBlade();
+//  action 2:   the chop saw lowers
+chopSaw.lower();
+//  action 3:   the chop saw stops the blade
+chopSaw.stopBlade();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       german sheppard
+//  action 1:   the german sheppard lays down
+germanSheppard.layDown();
+//  action 2:   the german sheppard chases tennis ball
+germanSheppard.chaseTennisBall();
+//  action 3:   the german sheppard shakes its paw 
+germanSheppard.shakePaw();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird feeder
+//  action 1:   the bird feeder dispenses food
+birdFeeder.dispenseFood();
+//  action 2:   the bird feeder swings
+birdFeeder.swings();
+//  action 3:   the bird feeder deters squirrels
+birdFeeder.deterSquirrel(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       skater
+//  action 1:   the skater performs an Ollie
+skater.performOllie();
+//  action 2:   the skater pushes forward
+skater.pushForward();
+//  action 3:   the skater leans
+skater.lean();
 
 
 #endif
@@ -143,8 +143,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
  If you didn't already: 
     Make a pull request after you make your first commit
     pin the pull request link and this repl.it link to our DM thread in a single message.
-
- send me a DM to review your pull request when the project is ready for review.
+send me a DM to review your pull request when the project is ready for review.
 
  Wait for my code review.
  */
