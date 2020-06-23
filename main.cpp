@@ -108,13 +108,13 @@ chopSaw.lower();
 //  action 3:   the chop saw stops the blade
 chopSaw.stopBlade();
 //  8)
-//  Noun:       insect
-//  action 1:   the insect jumps
-insect.jumps();
-//  action 2:   the insect buzzes
-insect.buzz();
-//  action 3:   the insect flaps its wings 
-insect.flapWing();
+//  Noun:       german sheppard
+//  action 1:   the german sheppard lays down
+germanSheppard.layDown();
+//  action 2:   the german sheppard chases tennis ball
+germanSheppard.chaseTennisBall();
+//  action 3:   the german sheppard shakes its paw 
+germanSheppard.shakePaw();
 //  9)
 //  Noun:       bird feeder
 //  action 1:   the bird feeder dispenses food
